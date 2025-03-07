@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:PSW-Grupa-7/back-end
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:PSW-Grupa-7/front-end
